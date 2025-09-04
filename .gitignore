@@ -34,3 +34,4 @@ data/
 tmp/
 .devcontainer/
 cloudreve
+.env
